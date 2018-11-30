@@ -5,8 +5,8 @@ var matrix = [];
 //     [0,4,0,0,5],
 //     [0,0,4,0,0]
 // ];
-var X = 50;
-var Y = 50;
+var X = 40;
+var Y = 20;
 var SI = 10;
 var xoter = [];
 var mltXoter = 0;
